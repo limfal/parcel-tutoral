@@ -1,0 +1,16 @@
+{
+  "name": "parceltest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Linn Fällman",
+  "license": "ISC",
+  "source" : "src/index.html",
+ "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
