@@ -1,7 +1,6 @@
 {
   "name": "parceltest",
   "version": "1.0.0",
-  "main": "index.js",
   "author": "Linn Fällman",
   "license": "ISC",
   "source" : "src/index.html",
